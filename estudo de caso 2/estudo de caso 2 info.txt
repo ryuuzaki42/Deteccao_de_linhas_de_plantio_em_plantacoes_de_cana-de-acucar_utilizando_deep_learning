@@ -1,0 +1,2 @@
+
+5.2 Estudo de caso da U-Net e o número de blocos e filtros convolucionais
