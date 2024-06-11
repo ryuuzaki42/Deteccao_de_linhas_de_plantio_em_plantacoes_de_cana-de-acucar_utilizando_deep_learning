@@ -1,2 +1,4 @@
 
 5.5 Estudo de caso das Operações Morfológicas
+
+Em: estudo de caso 3/crop_line_segmentation/
