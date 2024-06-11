@@ -1,0 +1,35 @@
+
+## Winrar
+    Folder > Add to archive...
+
+    ## General - change the name and format
+        _sumary
+        zip
+
+    ## Files
+        > Files to exclude
+            predict_Base_* *.h5
+
+            results*
+
+            0_del* results* z_old* zip_*
+
+## LibreOffice
+    ## Install
+E:\Joao\0tmp\Program_Files\LibreOffice
+
+    ## Path shortcuts - old
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+
+    ## Path shortcuts - new
+E:\Joao\0tmp\shortcuts\LibreOffice 7.4
+
+## Not used ## Anaconda3
+    ## Install
+E:\Joao\0tmp\Program_Files\anaconda3
+
+    ## Path shortcuts - old
+C:\Users\AeroCool\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)
+
+    ## Path shortcuts - new
+E:\Joao\0tmp\shortcuts\anaconda3
