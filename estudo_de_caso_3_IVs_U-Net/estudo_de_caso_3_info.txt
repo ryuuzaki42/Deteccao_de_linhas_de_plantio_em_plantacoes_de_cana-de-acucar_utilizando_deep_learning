@@ -1,2 +1,8 @@
 
 5.3 Estudo de caso dos IVs na U-Net
+
+Plot das imagens em comparação com a segmentação com:
+    "Imagem original", "Marcação feita pelo especialista", "Predição"
+    "Sobreposição", "VP", "VN", "FP", "FN"
+    em:
+    > crop_line_segmentation/1_unet_customizada_linha_plantio_vi.ipynb
