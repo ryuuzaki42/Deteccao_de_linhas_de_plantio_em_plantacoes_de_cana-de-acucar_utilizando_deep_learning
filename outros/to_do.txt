@@ -1,0 +1,12 @@
+
+1 Conferir arquivos
+
+2 Procurar arquivos de cada pasta e "limpar" os muito grandes
+
+3 Remover arquivos repetidos
+
+4 Adicionar arquivo para gerar gráficos com plot - Google Driver?
+
+5 Apagar pastas 0_to_del/ e .gitignore
+
+6
