@@ -20,4 +20,4 @@ https://github.com/ryuuzaki42/plot_model
 ### Contato para Crítica / Dúvidas / Sugestões: joao42lbatista@gmail.com
 
 ---
-Arquivos ainda em fase de envio. Última atualização: 11/06/2024
+Arquivos ainda em fase de envio.
