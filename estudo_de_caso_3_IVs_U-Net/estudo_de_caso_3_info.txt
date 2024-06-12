@@ -4,5 +4,14 @@
 Plot das imagens em comparação com a segmentação com:
     "Imagem original", "Marcação feita pelo especialista", "Predição"
     "Sobreposição", "VP", "VN", "FP", "FN"
-    em:
-    > crop_line_segmentation/1_unet_customizada_linha_plantio_vi.ipynb
+    em: crop_line_segmentation/1_unet_customizada_linha_plantio_vi.ipynb
+        > ## plot_imgs_jb
+
+Configuração do jupyter - jupyter-notebook - jupyter_contrib_nbextensions
+    em: crop_line_segmentation/1_unet_customizada_linha_plantio_vi.ipynb
+        > # Add jupyter_contrib_nbextensions
+
+Plot dos modelos - plot_model
+    em: iv_models_plot_model.zip
+        > 1_unet_customizada_linha_plantio_vi.ipynb
+            > ## Install pydotplus - até - ## model.summary()
