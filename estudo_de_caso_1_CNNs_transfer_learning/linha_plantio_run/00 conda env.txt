@@ -1,8 +1,19 @@
 
+Anaconda Prompt
+E:
+cd Joao
+
 conda create --prefix ./test-env
 
+## Activate
+E:
+cd Joao
+
+conda activate test-env/
+    # or
 conda activate E:\Joao\test-env
 
+## Install
 conda install pip
 
 pip install opencv-python
