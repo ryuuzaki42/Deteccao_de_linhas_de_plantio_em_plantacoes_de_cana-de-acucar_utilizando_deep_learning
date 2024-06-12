@@ -1,2 +1,5 @@
 
 5.4 Estudo de caso do dataset do LAPIX
+
+Treinamento e teste com o dataset LAPIX
+    em: estudo_de_caso_3_IVs_U-Net/crop_line_segmentation/1_unet_customizada_linha_plantio_vi.ipynb
