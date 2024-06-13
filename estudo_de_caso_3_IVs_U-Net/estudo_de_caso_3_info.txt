@@ -1,6 +1,9 @@
 
 5.3 Estudo de caso dos IVs na U-Net
 
+Treinamento e teste
+    em: crop_line_segmentation/
+
 Plot das imagens em comparação com a segmentação com:
     "Imagem original", "Marcação feita pelo especialista", "Predição"
     "Sobreposição", "VP", "VN", "FP", "FN"
