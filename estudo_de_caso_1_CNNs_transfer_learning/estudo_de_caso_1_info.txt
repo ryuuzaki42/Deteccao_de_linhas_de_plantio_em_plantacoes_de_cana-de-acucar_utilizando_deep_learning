@@ -1,2 +1,9 @@
 
 5.1 Estudo de caso de CNNs para segmentação com transfer learning e fine-tuning
+
+Treinamento e teste
+    em: linha_plantio_run/
+
+Plot dos modelos - plot_model
+    em: seg_models.zip
+        > 02_avaliacao_linhas_de_plantio.ipynb
