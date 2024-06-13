@@ -1,5 +1,6 @@
 
 5.5 Estudo de caso das Operações Morfológicas
 
-Em: estudo_de_caso_3/crop_line_segmentation/
-    > 3_test_MORPH.ipynb
+Testes
+    em: estudo_de_caso_3/crop_line_segmentation/
+        > 3_test_MORPH.ipynb
