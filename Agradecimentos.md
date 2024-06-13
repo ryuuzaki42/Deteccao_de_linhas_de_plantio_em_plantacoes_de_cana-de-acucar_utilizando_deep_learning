@@ -26,8 +26,8 @@ variadas áreas. Em especial à Fundação de Amparo à Pesquisa do Estado de Mi
 * À minha mãe, Luciane Aparecida Ribeiro, que do jeito dela tem me motivado e apoiado
 a estudar e lutar por um futuro melhor.
 
-* À empresa Sensix Inovações em Drones LTDA por ter disponibilizado parte das imagens
-utilizadas nos experimentos.
+* À empresa Sensix Inovações em Drones LTDA (https://sensix.ag/) por ter disponibilizado
+parte das imagens utilizadas nos experimentos.
 
 * À banca, composta pelo Prof. Dr. Henrique Coelho Fernandes e pelo Prof. Dr. João
 Fernando Mari, pelas valiosas contribuições, correções e sugestões, as quais desempenharam
