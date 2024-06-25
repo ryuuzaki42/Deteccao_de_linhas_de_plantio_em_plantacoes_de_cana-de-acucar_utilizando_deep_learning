@@ -14,6 +14,9 @@ Configuração do jupyter - jupyter-notebook - jupyter_contrib_nbextensions
     em: crop_line_segmentation/1_unet_customizada_linha_plantio_vi.ipynb
         > # Add jupyter_contrib_nbextensions
 
+    e em: outros/conda_readme.r
+        # jupyter_contrib_nbextensions - inside jupyter-notebook
+
 Plot dos modelos - plot_model
     em: iv_models_plot_model.zip
         > 1_unet_customizada_linha_plantio_vi.ipynb
