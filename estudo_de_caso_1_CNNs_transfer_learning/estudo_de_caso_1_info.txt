@@ -7,3 +7,7 @@ Treinamento e teste
 Plot dos modelos - plot_model
     em: seg_models.zip
         > 02_avaliacao_linhas_de_plantio.ipynb
+
+Configuração do ambiente e do jupyter - jupyter-notebook - jupyter_contrib_nbextensions
+    em: outros/conda_readme.r
+        # jupyter_contrib_nbextensions - inside jupyter-notebook
