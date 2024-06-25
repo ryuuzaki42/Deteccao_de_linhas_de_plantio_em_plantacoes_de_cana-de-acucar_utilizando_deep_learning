@@ -123,18 +123,19 @@ for i in range(0, MaxX, sizeX):
             add = ""
 
         name = "_" + add + str(imgCont) + ".png"
+        name_tmp = "_" + add + str(cont) + ".png"
 
         tmpX, tmpY, _ = imTmp.shape
 
         if ( tmpX < sizeX or tmpY < sizeY):
             print("small")
-            cv2.imwrite("./deletes/" + folderName + "/small/" + imageStartName + name, imTmp)
+            cv2.imwrite("./delete/" + folderName + "/small/" + imageStartName + name_tmp, imTmp)
         else:
             maxPixelValue = np.max(imTmp)
 
             if (maxPixelValue == 0):
                 print("black")
-                cv2.imwrite("./deletes/" + folderName + "/black/" + imageStartName + name, imTmp)
+                cv2.imwrite("./delete/" + folderName + "/black/" + imageStartName + name_tmp, imTmp)
             else:
                 countZeros = np.count_nonzero(imTmp==0)
                 percentageZeros = countZeros/countValues * 100
@@ -147,7 +148,7 @@ for i in range(0, MaxX, sizeX):
                 if (percentageZeros > percentageToSave):
                     print("percentage")
 
-                    cv2.imwrite("./deletes/" + folderName + "/percentage/" + imageStartName + name, imTmp)
+                    cv2.imwrite("./delete/" + folderName + "/percentage/" + imageStartName + name_tmp, imTmp)
                 else:
                     print("new")
                     cv2.imwrite("./" + folderName +"/" + imageStartName + name, imTmp, [cv2.IMWRITE_PNG_COMPRESSION, 9])
@@ -184,6 +185,7 @@ for i in range(0, MaxX, sizeX):
             add = ""
 
         name = "_" + add + str(imgCont) + ".png"
+        name_tmp = "_" + add + str(cont) + ".png"
 
         # Checking if image name exists in list
         print("cont:", cont)
@@ -194,6 +196,6 @@ for i in range(0, MaxX, sizeX):
             imgCont += 1
         else:
             print("del_mask")
-            cv2.imwrite("./delete/" + folderName + "/del_mask/" + imageStartName + name, imTmp)
+            cv2.imwrite("./delete/" + folderName + "/del_mask/" + imageStartName + name_tmp, imTmp)
 
         cont += 1
