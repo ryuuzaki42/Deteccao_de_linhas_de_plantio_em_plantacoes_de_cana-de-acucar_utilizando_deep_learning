@@ -1,0 +1,32 @@
+Mosaicos
+    /run/media/j/tmp_ntfs/0_t_mest_bkp/tests/dados_linha/dados_linha/Treinamento\ 2018-11-09/
+    #/run/media/j/Files_ex/0_f_mest_bkp/tests/dados_linha/dados_linha/Treinamento\ 2018-11-09/
+
+    ln -s /run/media/j/tmp_ntfs/0_t_mest_bkp/tests/dados_linha/dados_linha/Treinamento\ 2018-11-09/ /run/media/j/tmp_ntfs/app_mestrado_sensix/mosaicos
+
+Recortes
+    /run/media/j/tmp_ntfs/0_t_mest_bkp/datasets/Recortes/
+    #/run/media/j/tmp_ntfs/0_t_mest_bkp/tests/Segmentacao\ Linha\ Plantio\ CNN/Recortes/
+    #/run/media/j/Files_ex/0_f_mest_bkp/tests/Segmentacao\ Linha\ Plantio\ CNN/Recortes/
+
+    ln -s /run/media/j/tmp_ntfs/0_t_mest_bkp/datasets/Recortes/ /run/media/j/tmp_ntfs/app_mestrado_sensix/recortes
+
+K-fold
+    https://medium.com/@jvsavietto6/machine-learning-m%C3%A9tricas-valida%C3%A7%C3%A3o-cruzada-bias-e-vari%C3%A2ncia-380513d97c95
+
+    https://pt.wikipedia.org/wiki/Valida%C3%A7%C3%A3o_cruzada
+
+Dice
+    dice_test.ipynb
+    https://drive.google.com/drive/folders/1KjkbLOHKlSMHVpBd6fxZyqFczwEwMSWB
+
+    dice_and_plot.ipynb
+    Conda
+    /media/sda2/home/j/Dropbox_Maestral/ufu/projeto/app_mestrado/test_CD/
+
+Repositório
+    https://github.com/ryuuzaki42/Deteccao_de_linhas_de_plantio_em_plantacoes_de_cana-de-acucar_utilizando_deep_learning
+
+Conda
+    $ conda activate test_env
+    (test_env) $ jupyter-notebook
