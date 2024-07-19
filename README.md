@@ -17,7 +17,5 @@ Para visualizar o modelo com mais detalhes
 https://github.com/ryuuzaki42/plot_model
 
 ---
-### Contato para Crítica / Dúvidas / Sugestões: joao42lbatista@gmail.com
-
----
-Arquivos ainda em fase de envio.
+### Contato para Crítica / Dúvidas / Sugestões:
+joao42lbatista@gmail.com
