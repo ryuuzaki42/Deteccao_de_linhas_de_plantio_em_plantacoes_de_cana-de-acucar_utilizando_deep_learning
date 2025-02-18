@@ -11,9 +11,13 @@ https://doi.org/10.14393/ufu.di.2023.8085 ou https://repositorio.ufu.br/handle/1
 
 ---
 ### Plot model
-Para visualizar o modelo com mais detalhes
+Para visualizar o modelo com mais detalhes: https://github.com/ryuuzaki42/plot_model
 
-https://github.com/ryuuzaki42/plot_model
+---
+### Papers
+1. Júnior, J.D.D.; Ribeiro, J.B.; Backes, A.R. **Assessing the impact of JPEG compression on the semantic segmentation of agricultural images**. Signal Image and Video Processing, 2024. https://doi.org/10.1007/s11760-023-02697-7
+
+2. Ribeiro, J.B.; Silva, R.R.D.; Dias, J.D.; Escarpinati, M.C.; Backes, A.R.. **Automated detection of sugarcane crop lines from UAV images using deep learning**. Information Processing in Agriculture, 2024. https://doi.org/10.1016/j.inpa.2023.04.001
 
 ---
 ### Contato para Crítica / Dúvidas / Sugestões:
