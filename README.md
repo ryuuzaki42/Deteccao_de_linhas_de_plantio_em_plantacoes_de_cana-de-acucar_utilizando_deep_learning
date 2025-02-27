@@ -15,9 +15,11 @@ Para visualizar o modelo com mais detalhes: https://github.com/ryuuzaki42/plot_m
 
 ---
 ### Papers
-1. Júnior, J.D.D.; Ribeiro, J.B.; Backes, A.R. **Assessing the impact of JPEG compression on the semantic segmentation of agricultural images**. Signal Image and Video Processing, 2024. https://doi.org/10.1007/s11760-023-02697-7
+1. Júnior, J.D.D.; Ribeiro, J.B.; Backes, A.R.. **Assessing the impact of JPEG compression on the semantic segmentation of agricultural images**. Signal Image and Video Processing, 2024. https://doi.org/10.1007/s11760-023-02697-7
 
 2. Ribeiro, J.B.; Silva, R.R.D.; Dias, J.D.; Escarpinati, M.C.; Backes, A.R.. **Automated detection of sugarcane crop lines from UAV images using deep learning**. Information Processing in Agriculture, 2024. https://doi.org/10.1016/j.inpa.2023.04.001
+
+3. Ribeiro, J.B.; Backes, A.R. (2025). **Adjusting Convolution Blocks of U-Net to Improve Sugarcane Crop Line Segmentation**. In: Correia, L., Rosá, A., Garijo, F. (eds) Advances in Artificial Intelligence – IBERAMIA 2024. IBERAMIA 2024. Lecture Notes in Computer Science, vol 15277. Springer, Cham. https://doi.org/10.1007/978-3-031-80366-6_1
 
 ---
 ### Contato para Crítica / Dúvidas / Sugestões:
